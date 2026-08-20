@@ -178,34 +178,34 @@ const questions = [
 
     {
         question:
-            "What's your favorite memory? ❤️",
+            "بتحبني? ❤️",
 
         answers: [
-            "Our first day 🌸",
-            "Our funny moments 😂",
-            "Our conversations 💕"
+            "يس ي بيبي🌸",
+            "طبعا يحياتي 😂",
+            "جدا جدا 💕"
         ]
     },
 
     {
         question:
-            "Which memory makes you smile? 😊",
+            "اكتر حاجه بتحبها💕؟ ",
 
         answers: [
-            "The first photo 📸",
-            "The funny moments 😂",
-            "Everything ❤️"
+            "💕صوتي",
+            "😉ضحكتي",
+            "❤️عيوني"
         ]
     },
 
     {
         question:
-            "Would you like more memories? 🌷",
+            "عاوز نعمل ذكريات جديده سوا? 🌷",
 
         answers: [
-            "Of course! ❤️",
-            "Definitely! 💕",
-            "Always! 🌸"
+            "طبعاا ❤️",
+            "اكيد ! 💕",
+            "مستحيل ابعد! 🌸"
         ]
     }
 
@@ -283,7 +283,7 @@ function selectAnswer(button) {
     document
         .getElementById("result")
         .textContent =
-        "Awww, beautiful choice! ❤️";
+        "اشطر كتكوت 🐣❤️";
 }
 
 
